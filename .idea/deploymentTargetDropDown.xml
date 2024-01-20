@@ -5,6 +5,18 @@
       <entry key="GreetingPreview">
         <State />
       </entry>
+      <entry key="ShowColumn">
+        <State />
+      </entry>
+      <entry key="ShowColumnPreview">
+        <State />
+      </entry>
+      <entry key="ShowRowPreview">
+        <State />
+      </entry>
+      <entry key="ShowScreenPreview">
+        <State />
+      </entry>
       <entry key="app">
         <State />
       </entry>
